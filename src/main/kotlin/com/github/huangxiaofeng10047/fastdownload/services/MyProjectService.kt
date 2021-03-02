@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.huangxiaofeng10047.fastdownload.services
 
+import com.github.huangxiaofeng10047.fastdownload.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
